@@ -1,12 +1,55 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71AC5CAB-8FFB-7D68-1EC6-1682505E19BD}|ApiAggregationService.csproj|c:\\users\\giann\\source\\repos\\api-aggregator\\apiaggregationservice\\providers\\openweatherprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AC5CAB-8FFB-7D68-1EC6-1682505E19BD}|ApiAggregationService.csproj|solutionrelative:providers\\openweatherprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\AppData\\Roaming\\Microsoft\\UserSecrets\\f1f01b2c-053c-419f-ac0d-5b34e9b069c3\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenWeatherProvider.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\OpenWeatherProvider.cs",
+              "RelativeDocumentMoniker": "Providers\\OpenWeatherProvider.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\OpenWeatherProvider.cs",
+              "RelativeToolTip": "Providers\\OpenWeatherProvider.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T20:29:59.803Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\giann\\AppData\\Roaming\\Microsoft\\UserSecrets\\f1f01b2c-053c-419f-ac0d-5b34e9b069c3\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f1f01b2c-053c-419f-ac0d-5b34e9b069c3\\secrets.json",
+              "ToolTip": "C:\\Users\\giann\\AppData\\Roaming\\Microsoft\\UserSecrets\\f1f01b2c-053c-419f-ac0d-5b34e9b069c3\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f1f01b2c-053c-419f-ac0d-5b34e9b069c3\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-21T20:25:28.454Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

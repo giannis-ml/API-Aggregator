@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ApiAggregationService",
+    "\\ApiAggregationService\\Models",
+    "\\ApiAggregationService\\Properties",
+    "\\ApiAggregationService\\Providers"
   ],
+  "SelectedNode": "\\ApiAggregationService\\ApiAggregationService.slnx",
   "PreviewInSolutionExplorer": false
 }

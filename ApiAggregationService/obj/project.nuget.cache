@@ -1,11 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "F2SF0mW6L1U=",
+  "dgSpecHash": "Rj6kfXDfAqE=",
   "success": true,
   "projectFilePath": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\ApiAggregationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giann\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.15\\microsoft.aspnetcore.openapi.10.0.15.nupkg.sha512",
-    "C:\\Users\\giann\\.nuget\\packages\\microsoft.openapi\\2.13.0\\microsoft.openapi.2.13.0.nupkg.sha512"
+    "C:\\Users\\giann\\.nuget\\packages\\microsoft.extensions.ambientmetadata.application\\11.0.1\\microsoft.extensions.ambientmetadata.application.11.0.1.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\11.0.1\\microsoft.extensions.compliance.abstractions.11.0.1.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\microsoft.extensions.compliance.redaction\\11.0.1\\microsoft.extensions.compliance.redaction.11.0.1.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\microsoft.extensions.dependencyinjection.autoactivation\\11.0.1\\microsoft.extensions.dependencyinjection.autoactivation.11.0.1.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\microsoft.extensions.diagnostics.exceptionsummarization\\11.0.1\\microsoft.extensions.diagnostics.exceptionsummarization.11.0.1.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\microsoft.extensions.http.diagnostics\\11.0.1\\microsoft.extensions.http.diagnostics.11.0.1.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\microsoft.extensions.http.resilience\\11.0.1\\microsoft.extensions.http.resilience.11.0.1.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\microsoft.extensions.resilience\\11.0.1\\microsoft.extensions.resilience.11.0.1.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\microsoft.extensions.telemetry\\11.0.1\\microsoft.extensions.telemetry.11.0.1.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\microsoft.extensions.telemetry.abstractions\\11.0.1\\microsoft.extensions.telemetry.abstractions.11.0.1.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\microsoft.openapi\\2.13.0\\microsoft.openapi.2.13.0.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\polly.core\\8.4.2\\polly.core.8.4.2.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\polly.extensions\\8.4.2\\polly.extensions.8.4.2.nupkg.sha512",
+    "C:\\Users\\giann\\.nuget\\packages\\polly.ratelimiting\\8.4.2\\polly.ratelimiting.8.4.2.nupkg.sha512"
   ],
   "logs": []
 }
