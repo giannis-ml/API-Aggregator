@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("f1f01b2c-053c-419f-ac0d-5b34e9b069c3")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAggregationService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a00d8d1ed840e5ae17bdca02a715ccc4beb66bcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+745c884c538271240a8d0b95517c93e839e5f1f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAggregationService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAggregationService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
