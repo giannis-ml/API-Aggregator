@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAggregationService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+707901c0aad8d3bc3f02fe2ffa64eb4baada0dcf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a856fcea4bfedb982be0d5466fd1ac52c554ec94")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAggregationService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAggregationService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
