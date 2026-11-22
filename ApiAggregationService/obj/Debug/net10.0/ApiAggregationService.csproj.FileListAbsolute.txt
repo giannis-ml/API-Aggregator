@@ -1,0 +1,14 @@
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\ApiAggregationService.csproj.AssemblyReference.cache
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.lib.module.js
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.js
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.Config.js
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\HotReload\browser-tools-key.public.json
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\HotReload\browser-tools-key.private.json
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\ApiAggregationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\ApiAggregationService.AssemblyInfoInputs.cache
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\ApiAggregationService.AssemblyInfo.cs
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\ApiAggregationService.csproj.CoreCompileInputs.cache
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\ApiAggregationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\ApiAggregationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\giann\source\repos\API-Aggregator\ApiAggregationService\obj\Debug\net10.0\ApiAggregationService.sourcelink.json

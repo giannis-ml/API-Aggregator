@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Models\\AggregateResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Models\\AggregateResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Controllers\\StatisticsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Controllers\\StatisticsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Controllers\\AggregateController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Controllers\\AggregateController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Services\\AggregatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Services\\AggregatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Services\\StatisticsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Services\\StatisticsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Services\\ProviderStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Services\\ProviderStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\SpotifyProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Providers\\SpotifyProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Services\\SpotifyTokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Services\\SpotifyTokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\NewsApiProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Providers\\NewsApiProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\OpenWeatherProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Providers\\OpenWeatherProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Models\\AggregatedItem.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Models\\AggregatedItem.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\IDataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\Providers\\IDataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiAggregationService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Models\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +70,179 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AggregateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Models\\AggregateResponse.cs",
+              "RelativeDocumentMoniker": "ApiAggregationService\\Models\\AggregateResponse.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Models\\AggregateResponse.cs",
+              "RelativeToolTip": "ApiAggregationService\\Models\\AggregateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:17:23.065Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Program.cs",
+              "RelativeDocumentMoniker": "ApiAggregationService\\Program.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Program.cs",
+              "RelativeToolTip": "ApiAggregationService\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:13:19.955Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "ApiAggregationService\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "ApiAggregationService\\Controllers\\StatisticsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:12:49.706Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AggregateController.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Controllers\\AggregateController.cs",
+              "RelativeDocumentMoniker": "ApiAggregationService\\Controllers\\AggregateController.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Controllers\\AggregateController.cs",
+              "RelativeToolTip": "ApiAggregationService\\Controllers\\AggregateController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:12:03.772Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AggregatorService.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Services\\AggregatorService.cs",
+              "RelativeDocumentMoniker": "ApiAggregationService\\Services\\AggregatorService.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Services\\AggregatorService.cs",
+              "RelativeToolTip": "ApiAggregationService\\Services\\AggregatorService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAswHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:09:49.066Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Services\\StatisticsService.cs",
+              "RelativeDocumentMoniker": "ApiAggregationService\\Services\\StatisticsService.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Services\\StatisticsService.cs",
+              "RelativeToolTip": "ApiAggregationService\\Services\\StatisticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:09:17.055Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProviderStats.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Services\\ProviderStats.cs",
+              "RelativeDocumentMoniker": "ApiAggregationService\\Services\\ProviderStats.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Services\\ProviderStats.cs",
+              "RelativeToolTip": "ApiAggregationService\\Services\\ProviderStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:06:26.325Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpotifyProvider.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\SpotifyProvider.cs",
+              "RelativeDocumentMoniker": "ApiAggregationService\\Providers\\SpotifyProvider.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\SpotifyProvider.cs",
+              "RelativeToolTip": "ApiAggregationService\\Providers\\SpotifyProvider.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:05:06.531Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpotifyTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Services\\SpotifyTokenService.cs",
+              "RelativeDocumentMoniker": "ApiAggregationService\\Services\\SpotifyTokenService.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Services\\SpotifyTokenService.cs",
+              "RelativeToolTip": "ApiAggregationService\\Services\\SpotifyTokenService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:03:56.646Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewsApiProvider.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\NewsApiProvider.cs",
+              "RelativeDocumentMoniker": "ApiAggregationService\\Providers\\NewsApiProvider.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\NewsApiProvider.cs",
+              "RelativeToolTip": "ApiAggregationService\\Providers\\NewsApiProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:02:36.159Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OpenWeatherProvider.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\OpenWeatherProvider.cs",
+              "RelativeDocumentMoniker": "ApiAggregationService\\Providers\\OpenWeatherProvider.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\OpenWeatherProvider.cs",
+              "RelativeToolTip": "ApiAggregationService\\Providers\\OpenWeatherProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:00:10.03Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AggregatedItem.cs",
+              "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Models\\AggregatedItem.cs",
+              "RelativeDocumentMoniker": "ApiAggregationService\\Models\\AggregatedItem.cs",
+              "ToolTip": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Models\\AggregatedItem.cs",
+              "RelativeToolTip": "ApiAggregationService\\Models\\AggregatedItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T20:46:29.892Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\appsettings.json",
               "RelativeDocumentMoniker": "ApiAggregationService\\appsettings.json",
@@ -40,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "IDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Providers\\IDataProvider.cs",
               "RelativeDocumentMoniker": "ApiAggregationService\\Providers\\IDataProvider.cs",
@@ -54,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\giann\\source\\repos\\API-Aggregator\\ApiAggregationService\\Models\\Item.cs",
               "RelativeDocumentMoniker": "ApiAggregationService\\Models\\Item.cs",
